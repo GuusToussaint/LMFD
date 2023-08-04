@@ -26,19 +26,6 @@ dividual absolute Spearman’s ρ values of 0.13 and 0.09 can be combined
 into a proxy with an absolute Spearman’s ρ of 0.95. This demonstrates
 that our proposed method can find interpretable equations which can
 serve as a proxy for the ‘age’ of the system.
-1 Introduction
-Many systems in our world age, degrade, or slowly but steadily move in a certain
-direction. For example, a highway bridge slowly degrades during its lifetime,
-a cyclist in the Tour de France will tire over the course of a long stage, and
-the battery charge of an electric vehicle will deplete as it drives. While in the
-last example the continuous tracking of the state of charge is fairly doable, in
-many other applications, the actual ‘age’ of the system may be hidden, and only
-latently expressed in any data measured about the system. Often, any available
-sensors will capture the easily measurable information that is often of dynamic
-nature (what is currently happening in and around the system?), but the actual
-quantity of interest is much harder to obtain. For example, there can be plenty
-of measurements for the elite cyclist, including their heart rate, power output,
-skin conductivity, etc., but the measure of fatigue is hard to define, let alone
 
 
 

@@ -1,0 +1,4 @@
+__pycache__/
+smac3_output/
+.vscode/
+.DS_Store
